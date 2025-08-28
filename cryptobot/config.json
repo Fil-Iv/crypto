@@ -1,0 +1,15 @@
+{
+  "api_key": "5Ik4mtQIx9YvILnaUv6pV7kmKZjGJaHZyTCn5MtpKVzG67xmGR3AEauDMjeiWI9j",
+  "api_secret": "So0T01dj1xvQxgZkGzAhwSnsbKoehQwfeNUobl5zanUAGK2LyAfLuF7M1cGr3ioY",
+  "trading_interval_minutes": 15,
+  "telegram": {
+    "enabled": true,
+    "bot_token": "7956362362:AAF28BTDCVTh-Qu9sdEVGmB9hv7h8c2n3O0",
+    "chat_id": "5711978829"
+  },
+  "latest_news": [
+    "Bitcoin ETF may trigger market breakout.",
+    "Ethereum scaling improves DeFi prospects.",
+    "Solana sees institutional adoption grow."
+  ]
+}

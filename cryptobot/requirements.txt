@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+ta
+requests
+python-binance
+joblib
+ccxt
+
